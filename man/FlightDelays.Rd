@@ -3,19 +3,15 @@
 \docType{data}
 \name{FlightDelays}
 \alias{FlightDelays}
-\title{FlightDelays}
+\title{Information on 4029 United and American airlines departures from LGA during May and June 2009.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item
 }}
 \usage{
 FlightDelays
-
-FlightDelays
 }
 \description{
-A dataset containing X. The variables are as follows:
-
 A dataset containing X. The variables are as follows:
 }
 \keyword{datasets}

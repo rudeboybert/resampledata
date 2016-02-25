@@ -3,7 +3,7 @@
 \docType{data}
 \name{Verizon}
 \alias{Verizon}
-\title{Verizon}
+\title{Random sample of repair times for 1664 ILEC and 23 CLEC customers.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

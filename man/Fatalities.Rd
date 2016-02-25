@@ -3,7 +3,7 @@
 \docType{data}
 \name{Fatalities}
 \alias{Fatalities}
-\title{Fatalities}
+\title{Random sample of 100 driver fatalities in 2009 in Pennsylvania.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

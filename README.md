@@ -21,3 +21,11 @@ Or the development version from github:
 # install.packages("devtools")
 devtools::install_github("rudeboybert/resampledata")
 ```
+
+## Datasets
+
+To see a list of all datasets:
+
+```R
+data(package="resampledata")
+```

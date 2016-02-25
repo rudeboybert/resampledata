@@ -3,7 +3,7 @@
 \docType{data}
 \name{corrExerciseA}
 \alias{corrExerciseA}
-\title{corrExerciseA}
+\title{Correlation Exercise A p.294}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

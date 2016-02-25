@@ -3,7 +3,7 @@
 \docType{data}
 \name{Quakes}
 \alias{Quakes}
-\title{Quakes}
+\title{Time between earthquakes (in days).}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

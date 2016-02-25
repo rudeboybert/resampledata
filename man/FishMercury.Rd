@@ -3,7 +3,7 @@
 \docType{data}
 \name{FishMercury}
 \alias{FishMercury}
-\title{FishMercury}
+\title{Mercury levels (parts per million) for 30 fish caught in lakes in Minnesota.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

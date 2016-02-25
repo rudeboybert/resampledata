@@ -3,7 +3,7 @@
 \docType{data}
 \name{Illiteracy}
 \alias{Illiteracy}
-\title{Illiteracy}
+\title{Data on a sample of countries where female illiteracy is more that 5 percent.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

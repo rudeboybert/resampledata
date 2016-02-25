@@ -3,7 +3,7 @@
 \docType{data}
 \name{Maunaloa}
 \alias{Maunaloa}
-\title{Maunaloa}
+\title{Data on average CO2 levels (ppm) for the month of May from 1990 to 2010.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

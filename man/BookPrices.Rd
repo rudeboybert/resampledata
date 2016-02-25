@@ -3,7 +3,8 @@
 \docType{data}
 \name{BookPrices}
 \alias{BookPrices}
-\title{BookPrices}
+\title{Price of hardcover textbooks from mathematics and the natural sciences and
+the social sciences.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

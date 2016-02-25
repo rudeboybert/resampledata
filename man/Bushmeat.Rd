@@ -3,7 +3,7 @@
 \docType{data}
 \name{Bushmeat}
 \alias{Bushmeat}
-\title{Bushmeat}
+\title{Bushmeat in Ghana.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

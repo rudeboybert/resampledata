@@ -3,7 +3,7 @@
 \docType{data}
 \name{Alelager}
 \alias{Alelager}
-\title{Alelager}
+\title{Calories and alcohol content for ales and lagers.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

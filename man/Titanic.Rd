@@ -3,7 +3,7 @@
 \docType{data}
 \name{Titanic}
 \alias{Titanic}
-\title{Titanic}
+\title{Data on male passengers on the Titanic.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

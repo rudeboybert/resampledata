@@ -3,7 +3,7 @@
 \docType{data}
 \name{Spruce}
 \alias{Spruce}
-\title{Spruce}
+\title{Study of factors affecting the growth of the black spruce.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item

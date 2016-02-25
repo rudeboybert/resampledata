@@ -3,7 +3,7 @@
 \docType{data}
 \name{Challenger}
 \alias{Challenger}
-\title{Challenger}
+\title{Data on 23 Challenger flights.}
 \format{A data frame with X rows and Y variables:
 \itemize{
   \item
