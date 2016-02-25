@@ -9,17 +9,6 @@
 "Alelager"
 
 
-#' Basketball09
-#'
-#' A dataset containing X. The variables are as follows:
-#'
-#' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
-"Basketball09"
-
-
 #' Batters2005
 #'
 #' A dataset containing X. The variables are as follows:
@@ -186,17 +175,6 @@
 "Girls2004"
 
 
-#' GSS2006
-#'
-#' A dataset containing X. The variables are as follows:
-#'
-#' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
-"GSS2006"
-
-
 #' Calorie information for a sample of brands of chocolate and vanilla ice cream.
 #'
 #' A dataset containing X. The variables are as follows:
@@ -206,17 +184,6 @@
 #'   \item
 #' }
 "IceCream"
-
-
-#' ILBoys
-#'
-#' A dataset containing X. The variables are as follows:
-#'
-#' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
-"ILBoys"
 
 
 #' Data on a sample of countries where female illiteracy is more that 5 percent.
@@ -437,17 +404,6 @@
 #'   \item
 #' }
 "Verizon"
-
-
-#' volleyball2005
-#'
-#' A dataset containing X. The variables are as follows:
-#'
-#' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
-"volleyball2005"
 
 
 #' Length and weight measurements for a sample of 60 walleye caught in Minnesota lakes.

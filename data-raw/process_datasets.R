@@ -10,11 +10,6 @@ Alelager <- read.csv(file="data-raw/Alelager.csv", header=TRUE)
 devtools::use_data(Alelager, overwrite = TRUE)
 
 
-# Basketball09 ------------------------------------------------------------
-Basketball09 <- read.csv(file="data-raw/Basketball09.csv", header=TRUE)
-devtools::use_data(Basketball09, overwrite = TRUE)
-
-
 # Batters2005 -------------------------------------------------------------
 Batters2005 <- read.csv(file="data-raw/Batters2005.csv", header=TRUE)
 
@@ -111,19 +106,9 @@ Girls2004 <- read.csv(file="data-raw/Girls2004.csv", header=TRUE)
 devtools::use_data(Girls2004, overwrite = TRUE)
 
 
-# GSS2006 -----------------------------------------------------------------
-GSS2006 <- read.csv(file="data-raw/GSS2006.csv", header=TRUE)
-devtools::use_data(GSS2006, overwrite = TRUE)
-
-
 # IceCream ----------------------------------------------------------------
 IceCream <- read.csv(file="data-raw/IceCream.csv", header=TRUE)
 devtools::use_data(IceCream, overwrite = TRUE)
-
-
-# ILBoys ------------------------------------------------------------------
-ILBoys <- read.csv(file="data-raw/ILBoys.csv", header=TRUE)
-devtools::use_data(ILBoys, overwrite = TRUE)
 
 
 # Illiteracy --------------------------------------------------------------
@@ -224,11 +209,6 @@ devtools::use_data(TXBirths2004, overwrite = TRUE)
 # Verizon -----------------------------------------------------------------
 Verizon <- read.csv(file="data-raw/Verizon.csv", header=TRUE)
 devtools::use_data(Verizon, overwrite = TRUE)
-
-
-# volleyball2005 ----------------------------------------------------------
-volleyball2005 <- read.csv(file="data-raw/volleyball2005.csv", header=TRUE)
-devtools::use_data(volleyball2005, overwrite = TRUE)
 
 
 # Walleye -----------------------------------------------------------------
