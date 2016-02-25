@@ -5,6 +5,8 @@
 
 R package of datasets used in "Mathematical Statistics with Resampling in R" (2011) by Laura Chihara and Tim Hesterberg.
 
+![alt text](textbook.jpg)
+
 ## Installation
 
 Get the released version from CRAN:
@@ -19,5 +21,3 @@ Or the development version from github:
 # install.packages("devtools")
 devtools::install_github("rudeboybert/resampledata")
 ```
-
-![alt text](textbook.jpg)
