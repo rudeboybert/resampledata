@@ -9,8 +9,8 @@
 Package to load datasets from "Datasets for Mathematical Statistics
 with Resampling in R" (2011) by Laura Chihara and Tim Hesterberg.
 }
-\section{Foo functions}{
+\section{Datasets}{
 
-The foo functions ...
+Type \code{data(package="resampledata")} to view all datasets.
 }
 
