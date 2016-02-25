@@ -1,9 +1,20 @@
 Package: resampledata
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Title: Datasets for Mathematical Statistics with Resampling in R
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Laura", "Chihara", email = "lchihara@carleton.edu", role = "aut"),
+    person("Tim", "Hesterberg", email = "albert@stat.washington.edu", role = "aut"),
+    person("Albert Y.", "Kim", email = "micher3@u.washington.edu", role = "cre")
+    )
+Suggests:
+    resample (>= 0.4)
+Maintainer: Albert Y. Kim <albert.ys.kim@gmail.com>
+Description: Package to load datasets from "Datasets for Mathematical Statistics
+    with Resampling in R" (2011) by Laura Chihara and Tim Hesterberg.
+License: CC0
 LazyData: TRUE
+RoxygenNote: 5.0.1
+URL: https://github.com/rudeboybert/resampledata
+BugReports: https://github.com/rudeboybert/resampledata/issues
+VignetteBuilder: knitr
