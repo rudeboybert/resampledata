@@ -351,7 +351,7 @@
 "Service"
 
 
-#' Scores from the short program and free skate for men’s figure skating in the 2010 Olympics.
+#' Scores from the short program and free skate for men's figure skating in the 2010 Olympics.
 #'
 #' A dataset containing X. The variables are as follows:
 #'
