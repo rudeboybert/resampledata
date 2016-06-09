@@ -1,7 +1,7 @@
 # Source of CSV files: https://sites.google.com/site/chiharahesterberg/
-# Bangladesh, GSS2002, Volleyball2009 are excluded.
-# Most of the work in this file is releveling ordinal categorial variables.
-
+#
+# Note: The datasets Bangladesh, GSS2002, GSS2006, and Volleyball2009 are not
+# included.
 library(dplyr)
 
 
@@ -138,6 +138,14 @@ devtools::use_data(MnGroundwater, overwrite = TRUE)
 
 # NCBirths2004 ------------------------------------------------------------
 NCBirths2004 <- read.csv(file="data-raw/NCBirths2004.csv", header=TRUE)
+
+# Specify levels of select categorical variables
+MothersAge_levels <- c("under 15", "15-19", "20-24", "25-29", "30-34", "35-39",
+                       "40-44", "45-49")
+
+# Reorder ordinal categorical variables
+NCBirths2004 <- NCBirths2004 %>%
+  mutate(MothersAge = factor(MothersAge, levels = MothersAge_levels))
 devtools::use_data(NCBirths2004, overwrite = TRUE)
 
 

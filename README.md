@@ -29,3 +29,8 @@ To see a list of all datasets:
 ```R
 data(package = "resampledata")
 ```
+
+Note the following datasets were not included due to sharing restrictions and 
+can only be accessed on the [textbook's
+webpage](https://sites.google.com/site/chiharahesterberg/): `Bangladesh`,
+`GSS2002`, `GSS2006`, and `Volleyball2009`.
