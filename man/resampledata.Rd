@@ -4,12 +4,12 @@
 \name{resampledata}
 \alias{resampledata}
 \alias{resampledata-package}
-\title{resampledata: Datasets for Mathematical Statistics with Resampling in R}
+\title{resampledata: Data Sets for Mathematical Statistics with Resampling in R}
 \description{
-Package of datasets from "Datasets for Mathematical Statistics
-with Resampling in R" (2011) by Laura Chihara and Tim Hesterberg.
+Package of data sets from "Mathematical Statistics with Resampling in R"
+(2011) by Laura Chihara and Tim Hesterberg.
 }
-\section{Datasets}{
+\section{Data sets}{
 
 Type \code{data(package="resampledata")} to view all datasets. Note the
 following datasets were not included due to sharing restrictions and can only

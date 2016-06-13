@@ -12,7 +12,7 @@
 TV
 }
 \description{
-A dataset containing X. The variables are as follows:
+A data set containing X. The variables are as follows:
 }
 \keyword{datasets}
 
