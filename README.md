@@ -25,10 +25,16 @@ devtools::install_github("rudeboybert/resampledata")
 
 ## Data Sets
 
-To see a list of all data sets:
+To see a list of all data sets, type:
 
 ```R
 data(package = "resampledata")
+```
+
+To load a particular data set, `FlightDelays` for example, type:
+
+```R
+data(FlightDelays)
 ```
 
 Note the following data sets were not included due to sharing restrictions and 
