@@ -1,5 +1,9 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^\.travis\.yml$
-textbook.jpg
 ^data-raw$
+README.md
+^NEWS\.md$
+^README\.md$
+^textbook\.jpg$
+^cran-comments\.md$

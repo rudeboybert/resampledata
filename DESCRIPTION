@@ -1,7 +1,7 @@
 Package: resampledata
 Type: Package
-Title: Datasets for Mathematical Statistics with Resampling in R
-Version: 0.0.0.9000
+Title: Data Sets for Mathematical Statistics with Resampling in R
+Version: 0.1
 Authors@R: c(
     person("Laura", "Chihara", email = "lchihara@carleton.edu", role = "aut"),
     person("Tim", "Hesterberg", email = "TimHesterberg@gmail.com", role = "aut"),
@@ -10,7 +10,7 @@ Authors@R: c(
 Suggests:
     resample (>= 0.4)
 Maintainer: Albert Y. Kim <albert.ys.kim@gmail.com>
-Description: Package to load datasets from "Datasets for Mathematical Statistics
+Description: Package to load data sets from "Mathematical Statistics
     with Resampling in R" (2011) by Laura Chihara and Tim Hesterberg.
 Depends: R (>= 2.10)
 License: CC0

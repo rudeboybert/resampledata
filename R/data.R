@@ -1,6 +1,6 @@
 #' Calories and alcohol content for ales and lagers.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -11,7 +11,7 @@
 
 #' Batters2005
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -22,7 +22,7 @@
 
 #' Beer and hot wings consumption.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -34,7 +34,7 @@
 #' Price of hardcover textbooks from mathematics and the natural sciences and
 #' the social sciences.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -45,7 +45,7 @@
 
 #' Bushmeat in Ghana.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -56,7 +56,7 @@
 
 #' Bushmeat in Ghana.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -67,7 +67,7 @@
 
 #' Prices of a sample of point-and-shoot digital cameras.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -78,7 +78,7 @@
 
 #' Information on various cereals.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -89,7 +89,7 @@
 
 #' Data on 23 Challenger flights.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -100,7 +100,7 @@
 
 #' Correlation Exercise A p.294
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -111,7 +111,7 @@
 
 #' Correlation Exercise B p.294
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -122,7 +122,7 @@
 
 #' Cuckoos
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -133,7 +133,7 @@
 
 #' Random sample of 100 driver fatalities in 2009 in Pennsylvania.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -144,7 +144,7 @@
 
 #' Mercury levels (parts per million) for 30 fish caught in lakes in Minnesota.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -155,7 +155,7 @@
 
 #' Information on 4029 United and American airlines departures from LGA during May and June 2009.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -166,7 +166,7 @@
 
 #' Random sample of 40 baby girls born in Alaska and 40 baby girls born in Wyoming.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -177,7 +177,7 @@
 
 #' Calorie information for a sample of brands of chocolate and vanilla ice cream.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -188,7 +188,7 @@
 
 #' Data on a sample of countries where female illiteracy is more that 5 percent.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -199,7 +199,7 @@
 
 #' Winning numbers for the daily games from May 5, 2010 through August 15, 2010.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -210,7 +210,7 @@
 
 #' manatees
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -221,7 +221,7 @@
 
 #' Data on average CO2 levels (ppm) for the month of May from 1990 to 2010.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -232,7 +232,7 @@
 
 #' Measurements on water quality of 895 randomly selected wells in Minnesota.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -243,7 +243,7 @@
 
 #' Random sample of 1009 babies born in North Carolina during 2004.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -254,7 +254,7 @@
 
 #' Data from the 2009 season for the baseball team of the Philadelphia Phillies.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -265,7 +265,7 @@
 
 #' Pitchers2005
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -276,7 +276,7 @@
 
 #' Time between earthquakes (in days).
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -287,7 +287,7 @@
 
 #' Children's reading abilities.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -298,7 +298,7 @@
 
 #' Sat2008
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -309,7 +309,7 @@
 
 #' Service times (in minutes) for 174 customers at a college snack bar.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -320,7 +320,7 @@
 
 #' Scores from the short program and free skate for men's figure skating in the 2010 Olympics.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -331,7 +331,7 @@
 
 #' Study of factors affecting the growth of the black spruce.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -342,7 +342,7 @@
 
 #' Starcraft
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -353,7 +353,7 @@
 
 #' Data on male passengers on the Titanic.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -364,7 +364,7 @@
 
 #' Wind Speeds (m/s) from Carleton College Turbine.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -375,7 +375,7 @@
 
 #' TV
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -386,7 +386,7 @@
 
 #' Random sample of 1587 babies born in Texas in 2004.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -397,7 +397,7 @@
 
 #' Random sample of repair times for 1664 ILEC and 23 CLEC customers.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -408,7 +408,7 @@
 
 #' Length and weight measurements for a sample of 60 walleye caught in Minnesota lakes.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
@@ -419,7 +419,7 @@
 
 #' Relationship between seedling growth and water table depth for a sample of seedlings.
 #'
-#' A dataset containing X. The variables are as follows:
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{
