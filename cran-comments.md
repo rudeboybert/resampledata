@@ -1,5 +1,5 @@
 ## Test environments
-* local OS X install, R 3.2.4
+* local OS X install, R 3.3.0
 * ubuntu 12.04 (on travis-ci), R 3.1.3
 * win-builder (devel and release)
 
@@ -13,6 +13,6 @@ There was 1 NOTE:
 
 ## Comments
 
-* Version number changed from 0.0.0.9000 to 0.1
+* Version number changed from 0.0.0.9000 to 0.1.0
 * Added example
 * Textbook does not have a DOI reference
