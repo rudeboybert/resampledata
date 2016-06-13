@@ -3,7 +3,6 @@
 ^\.travis\.yml$
 ^data-raw$
 README.md
-^NEWS\.md$
 ^README\.md$
 ^textbook\.jpg$
 ^cran-comments\.md$

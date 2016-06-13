@@ -1,3 +1,3 @@
-# resampledata 0.1
+# resampledata 0.1.0
 
-* Initial version
+* First version of package
