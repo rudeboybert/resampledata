@@ -36,8 +36,3 @@ To load a particular data set, `FlightDelays` for example, type:
 ```R
 data(FlightDelays)
 ```
-
-Note the following data sets were not included due to sharing restrictions and 
-can only be accessed on the [textbook's
-webpage](https://sites.google.com/site/chiharahesterberg/): `Bangladesh`,
-`GSS2002`, `GSS2006`, and `Volleyball2009`.

@@ -10,6 +10,11 @@ Alelager <- read.csv(file="data-raw/Alelager.csv", header=TRUE)
 devtools::use_data(Alelager, overwrite = TRUE)
 
 
+# Bangladesh ----------------------------------------------------------------
+Bangladesh <- read.csv(file="data-raw/Bangladesh.csv", header=TRUE)
+devtools::use_data(Bangladesh, overwrite = TRUE)
+
+
 # Batters2005 -------------------------------------------------------------
 Batters2005 <- read.csv(file="data-raw/Batters2005.csv", header=TRUE)
 
@@ -104,6 +109,46 @@ devtools::use_data(FlightDelays, overwrite = TRUE)
 # Girls2004 ---------------------------------------------------------------
 Girls2004 <- read.csv(file="data-raw/Girls2004.csv", header=TRUE)
 devtools::use_data(Girls2004, overwrite = TRUE)
+
+
+# GSS2002 ---------------------------------------------------------------
+GSS2002 <- read.csv(file="data-raw/GSS2002.csv", header=TRUE)
+
+# Specify levels of select categorical variables
+Education_levels <- c("Left HS", "HS", "Jr Col", "Bachelors", "Graduate")
+Income_levels <- c("under 1000", "1000-2999", "3000-3999", "4000-4999",
+                   "5000-5999", "6000-6999", "7000-7999", "8000-9999",
+                   "10000-124999", "12500-14999", "15000-17499", "17500-19999",
+                   "20000-22499", "22500-24999", "25000-29999", "30000-34999",
+                   "35000-39999", "40000-49999", "50000-59999", "60000-74999",
+                   "75000-89999",  "90000-109999", "110000-129999",
+                   "130000-149999"
+                   )
+
+# Reorder ordinal categorical variables
+GSS2002 <- GSS2002 %>%
+  mutate(
+    Education = factor(Education, levels = Education_levels),
+    Income = factor(Income, levels = Income_levels)
+  )
+
+devtools::use_data(GSS2002, overwrite = TRUE)
+
+
+
+# GSS2006 ---------------------------------------------------------------
+GSS2006 <- read.csv(file="data-raw/GSS2006.csv", header=TRUE)
+
+# Specify levels of select categorical variables
+Degree_levels <- c("Left HS", "HS", "Jr Col", "Bachelors", "Graduate")
+
+# Reorder ordinal categorical variables
+GSS2006 <- GSS2006 %>%
+  mutate(
+    Degree = factor(Degree, levels = Degree_levels)
+    )
+
+devtools::use_data(GSS2006, overwrite = TRUE)
 
 
 # IceCream ----------------------------------------------------------------
@@ -217,6 +262,11 @@ devtools::use_data(TXBirths2004, overwrite = TRUE)
 # Verizon -----------------------------------------------------------------
 Verizon <- read.csv(file="data-raw/Verizon.csv", header=TRUE)
 devtools::use_data(Verizon, overwrite = TRUE)
+
+
+# Volleyball -----------------------------------------------------------------
+Volleyball2009 <- read.csv(file="data-raw/Volleyball2009.csv", header=TRUE)
+devtools::use_data(Volleyball2009, overwrite = TRUE)
 
 
 # Walleye -----------------------------------------------------------------

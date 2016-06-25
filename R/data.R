@@ -9,6 +9,21 @@
 "Alelager"
 
 
+#' Bangladesh
+#'
+#' The Bangladesh data is provided solely for illustrative purposes and to
+#' enable statistical analysis.  Full data are available from the British
+#' Geological Survey web site:
+#' \url{http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm}.
+#' The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Bangladesh"
+
+
 #' Batters2005
 #'
 #' A data set containing X. The variables are as follows:
@@ -173,6 +188,39 @@
 #'   \item
 #' }
 "Girls2004"
+
+
+#' Random sample of 40 baby girls born in Alaska and 40 baby girls born in Wyoming.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Girls2004"
+
+
+#' Results from 2002 General Society Survey.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"GSS2002"
+
+
+#' Results from 2006 General Society Survey.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"GSS2006"
 
 
 #' Calorie information for a sample of brands of chocolate and vanilla ice cream.
@@ -404,6 +452,17 @@
 #'   \item
 #' }
 "Verizon"
+
+
+#' Volleyball2009
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Volleyball2009"
 
 
 #' Length and weight measurements for a sample of 60 walleye caught in Minnesota lakes.
