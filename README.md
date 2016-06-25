@@ -9,7 +9,7 @@ R package of data sets used in [Mathematical Statistics with Resampling in R](ht
 
 ## Installation
 
-Coming Soon: Get the released version from CRAN:
+Get the released version from CRAN:
 
 ```R
 install.packages("resampledata")
