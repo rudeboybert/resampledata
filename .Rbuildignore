@@ -6,3 +6,5 @@ README.md
 ^README\.md$
 ^textbook\.jpg$
 ^cran-comments\.md$
+^README\.Rmd$
+^README-.*\.png$
