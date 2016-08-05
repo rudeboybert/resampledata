@@ -16,7 +16,9 @@ The Bangladesh data is provided solely for illustrative purposes and to
 enable statistical analysis.  Full data are available from the British
 Geological Survey web site:
 \url{http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm}.
-The variables are as follows:
+}
+\details{
+A data set containing X. The variables are as follows:
 }
 \keyword{datasets}
 

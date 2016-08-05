@@ -40,3 +40,5 @@ To load a particular data set, `FlightDelays` for example, type:
 ``` r
 data(FlightDelays)
 ```
+
+Note the `Bangladesh` data is provided solely for illustrative purposes and to enable statistical analysis. Full data are available from the British Geological Survey web site <http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm>.

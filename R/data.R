@@ -15,7 +15,8 @@
 #' enable statistical analysis.  Full data are available from the British
 #' Geological Survey web site:
 #' \url{http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm}.
-#' The variables are as follows:
+#'
+#' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
 #' \itemize{

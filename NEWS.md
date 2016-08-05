@@ -2,7 +2,8 @@
 
 * Development version of package
 * Added originally excluded Bangladesh, GSS2002, GSS2006 and Volleyball2009 data
-sets.
+sets. All data sets are now included in package
+* Added `CITATION` and references
 
 # resampledata 0.1.0
 
