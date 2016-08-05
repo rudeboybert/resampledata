@@ -11,4 +11,6 @@ There were no ERRORs or WARNINGs.
 
 ## Comments
 
+* British Geological Survey website appears to be down at time of submission, hence
+a NOTE is thrown. 
 * Textbook does not have a DOI reference
