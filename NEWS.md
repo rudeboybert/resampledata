@@ -1,3 +1,7 @@
+# resampledata 0.2.0.9000
+
+* Development version; don't expect much to change however.
+
 # resampledata 0.2.0
 
 * Added originally excluded `Bangladesh`, `GSS2002`, `GSS2006` and
