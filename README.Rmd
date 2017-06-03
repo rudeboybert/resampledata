@@ -21,7 +21,11 @@ knitr::opts_chunk$set(
 
 R package of data sets used in [Mathematical Statistics with Resampling in R](https://sites.google.com/site/chiharahesterberg/) (2011) by Laura Chihara and Tim Hesterberg.
 
-![alt text](textbook.jpg)
+<br>
+
+![](http://media.wiley.com/product_data/coverImage300/52/11180298/1118029852.jpg)
+
+<br>
 
 ## Installation
 
