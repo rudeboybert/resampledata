@@ -18,11 +18,28 @@
 <!-- Font Awesome icons -->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
+<!-- clipboard.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js" integrity="sha384-cV+rhyOuRHc9Ub/91rihWcGmMmCXDeksTtCihMupQHSsi8GIIRDG0ThDc3HGQFJ3" crossorigin="anonymous"></script>
+
+<!-- sticky kit -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js" integrity="sha256-c4Rlo1ZozqTPE2RLuvbusY3+SU1pQaJC0TjuhygMipw=" crossorigin="anonymous"></script>
 
 <!-- pkgdown -->
 <link href="../pkgdown.css" rel="stylesheet">
-<script src="../jquery.sticky-kit.min.js"></script>
 <script src="../pkgdown.js"></script>
+
+
+
+<meta property="og:title" content="resampledata: Data Sets for Mathematical Statistics with Resampling in R — resampledata" />
+
+<meta property="og:description" content="Package of data sets from &quot;Mathematical Statistics with Resampling in R&quot;
+(1st Ed. 2011, 2nd Ed. 2018) by Laura Chihara and Tim Hesterberg. Note the Bangladesh
+data is provided solely for illustrative purposes and to enable statistical
+analysis. Full data are available from the British Geological Survey web site
+http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm." />
+<meta name="twitter:card" content="summary" />
+
+
 
 <!-- mathjax -->
 <script src='https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
@@ -46,15 +63,25 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="../index.html">resampledata</a>
+      <span class="navbar-brand">
+        <a class="navbar-link" href="../index.html">resampledata</a>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.2.0.9000</span>
+      </span>
     </div>
+
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
+  <a href="../index.html">
+    <span class="fa fa-home fa-lg"></span>
+     
+  </a>
+</li>
+<li>
   <a href="../reference/index.html">Reference</a>
 </li>
 <li>
-  <a href="../news/index.html">News</a>
+  <a href="../news/index.html">Changelog</a>
 </li>
       </ul>
       
@@ -66,6 +93,7 @@
   </a>
 </li>
       </ul>
+      
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
@@ -73,19 +101,23 @@
       
       </header>
 
-      <div class="row">
+<div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
     <h1>resampledata: Data Sets for Mathematical Statistics with Resampling in R</h1>
+    <small class="dont-index">Source: <a href='https://github.com/rudeboybert/resampledata/blob/master/R/resampledata.R'><code>R/resampledata.R</code></a></small>
+    <div class="hidden name"><code>resampledata.Rd</code></div>
     </div>
 
+    <div class="ref-description">
     
     <p>Package of data sets from "Mathematical Statistics with Resampling in R"
-(2011) by Laura Chihara and Tim Hesterberg. Note the <code><a href='Bangladesh.html'>Bangladesh</a></code>
+(1st Ed. 2011, 2nd Ed. 2018) by Laura Chihara and Tim Hesterberg. Note the <code><a href='Bangladesh.html'>Bangladesh</a></code>
 data is provided solely for illustrative purposes and to enable statistical
 analysis. Full data are available from the British Geological Survey web site
-<a href = 'http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm'>http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm</a>.</p>
+<a href='http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm'>http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm</a>.</p>
     
+    </div>
 
         
     <h2 class="hasAnchor" id="data-sets"><a class="anchor" href="#data-sets"></a>Data sets</h2>
@@ -97,8 +129,8 @@ analysis. Full data are available from the British Geological Survey web site
 
     <p>Hesterberg, Tim (2014), What Teachers Should Know about the
 Bootstrap: Resampling in the Undergraduate Statistics Curriculum,
-<a href = 'http://arxiv.org/abs/1411.5279'>http://arxiv.org/abs/1411.5279</a>.</p>
-<p>Chihara, Laura M., Hesterberg, Tim C. (2011). Mathematical
+<a href='http://arxiv.org/abs/1411.5279'>http://arxiv.org/abs/1411.5279</a>.</p>
+<p>Chihara, Laura M., Hesterberg, Tim C. (1st Ed. 2011, 2nd Ed. 2018). Mathematical
   Statistics with Resampling and R. Hoboken, NJ: John Wiley &amp; Sons.</p>
     
 
@@ -126,11 +158,14 @@ Bootstrap: Resampling in the Undergraduate Statistics Curriculum,
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="http://hadley.github.io/pkgdown/">pkgdown</a>.</p>
+  <p>Site built with <a href="http://pkgdown.r-lib.org/">pkgdown</a>.</p>
 </div>
 
       </footer>
    </div>
 
+  
+
   </body>
 </html>
+

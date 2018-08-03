@@ -18,11 +18,21 @@
 <!-- Font Awesome icons -->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
+<!-- clipboard.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js" integrity="sha384-cV+rhyOuRHc9Ub/91rihWcGmMmCXDeksTtCihMupQHSsi8GIIRDG0ThDc3HGQFJ3" crossorigin="anonymous"></script>
+
+<!-- sticky kit -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js" integrity="sha256-c4Rlo1ZozqTPE2RLuvbusY3+SU1pQaJC0TjuhygMipw=" crossorigin="anonymous"></script>
 
 <!-- pkgdown -->
 <link href="../pkgdown.css" rel="stylesheet">
-<script src="../jquery.sticky-kit.min.js"></script>
 <script src="../pkgdown.js"></script>
+
+
+
+<meta property="og:title" content="Function reference" />
+
+
 
 <!-- mathjax -->
 <script src='https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
@@ -46,15 +56,25 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="../index.html">resampledata</a>
+      <span class="navbar-brand">
+        <a class="navbar-link" href="../index.html">resampledata</a>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.2.0.9000</span>
+      </span>
     </div>
+
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
+  <a href="../index.html">
+    <span class="fa fa-home fa-lg"></span>
+     
+  </a>
+</li>
+<li>
   <a href="../reference/index.html">Reference</a>
 </li>
 <li>
-  <a href="../news/index.html">News</a>
+  <a href="../news/index.html">Changelog</a>
 </li>
       </ul>
       
@@ -66,6 +86,7 @@
   </a>
 </li>
       </ul>
+      
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
@@ -73,299 +94,385 @@
       
       </header>
 
-      <div class="row">
-  <div class="col-md-9">
+<div class="row">
+  <div class="contents col-md-9">
     <div class="page-header">
-      <h1>
-        Reference
-        <small>version&nbsp;0.2.0.9000</small>
-      </h1>
+      <h1>Reference</h1>
     </div>
 
-    <div class="contents">
-      <table class="ref-index">
+    <table class="ref-index">
 
-      <colgroup>
-        <col class="alias" />
-        <col class="title" />
-      </colgroup>
+    <colgroup>
+      
+      <col class="alias" />
+      <col class="title" />
+    </colgroup>
 
-      <tbody>
-        <tr>
-          <th colspan="2">
-            <h2 id="section-all-functions" class="hasAnchor"><a href="#section-all-functions" class="anchor"></a>All functions</h2>
-            <p class="section-desc"></p>
-          </th>
-        </tr>
-        <tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Alelager.html">Alelager</a></code> </p>
-          </td>
-          <td><p>Calories and alcohol content for ales and lagers.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Bangladesh.html">Bangladesh</a></code> </p>
-          </td>
-          <td><p>Bangladesh</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Batters2005.html">Batters2005</a></code> </p>
-          </td>
-          <td><p>Batters2005</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Beerwings.html">Beerwings</a></code> </p>
-          </td>
-          <td><p>Beer and hot wings consumption.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="BookPrices.html">BookPrices</a></code> </p>
-          </td>
-          <td><p>Price of hardcover textbooks from mathematics and the natural sciences and
+    <tbody>
+      <tr>
+        <th colspan="2">
+          <h2 id="section-all-functions" class="hasAnchor"><a href="#section-all-functions" class="anchor"></a>All functions</h2>
+          <p class="section-desc"></p>
+        </th>
+      </tr>
+      <tr>
+        
+        <td>
+          <p><code><a href="Alelager.html">Alelager</a></code> </p>
+        </td>
+        <td><p>Calories and alcohol content for ales and lagers.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Bangladesh.html">Bangladesh</a></code> </p>
+        </td>
+        <td><p>Bangladesh</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Batters2005.html">Batters2005</a></code> </p>
+        </td>
+        <td><p>Batters2005</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Beerwings.html">Beerwings</a></code> </p>
+        </td>
+        <td><p>Beer and hot wings consumption.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="BookPrices.html">BookPrices</a></code> </p>
+        </td>
+        <td><p>Price of hardcover textbooks from mathematics and the natural sciences and
 the social sciences.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Bushmeat.html">Bushmeat</a></code> </p>
-          </td>
-          <td><p>Bushmeat in Ghana.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Bushmeat2.html">Bushmeat2</a></code> </p>
-          </td>
-          <td><p>Bushmeat in Ghana.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Cameras.html">Cameras</a></code> </p>
-          </td>
-          <td><p>Prices of a sample of point-and-shoot digital cameras.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Cereals.html">Cereals</a></code> </p>
-          </td>
-          <td><p>Information on various cereals.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Challenger.html">Challenger</a></code> </p>
-          </td>
-          <td><p>Data on 23 Challenger flights.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="corrExerciseA.html">corrExerciseA</a></code> </p>
-          </td>
-          <td><p>Correlation Exercise A p.294</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="corrExerciseB.html">corrExerciseB</a></code> </p>
-          </td>
-          <td><p>Correlation Exercise B p.294</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Cuckoos.html">Cuckoos</a></code> </p>
-          </td>
-          <td><p>Cuckoos</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Fatalities.html">Fatalities</a></code> </p>
-          </td>
-          <td><p>Random sample of 100 driver fatalities in 2009 in Pennsylvania.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="FishMercury.html">FishMercury</a></code> </p>
-          </td>
-          <td><p>Mercury levels (parts per million) for 30 fish caught in lakes in Minnesota.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="FlightDelays.html">FlightDelays</a></code> </p>
-          </td>
-          <td><p>Information on 4029 United and American airlines departures from LGA during May and June 2009.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Girls2004.html">Girls2004</a></code> </p>
-          </td>
-          <td><p>Random sample of 40 baby girls born in Alaska and 40 baby girls born in Wyoming.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="GSS2002.html">GSS2002</a></code> </p>
-          </td>
-          <td><p>Results from 2002 General Society Survey.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="GSS2006.html">GSS2006</a></code> </p>
-          </td>
-          <td><p>Results from 2006 General Society Survey.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="IceCream.html">IceCream</a></code> </p>
-          </td>
-          <td><p>Calorie information for a sample of brands of chocolate and vanilla ice cream.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Illiteracy.html">Illiteracy</a></code> </p>
-          </td>
-          <td><p>Data on a sample of countries where female illiteracy is more that 5 percent.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Lottery.html">Lottery</a></code> </p>
-          </td>
-          <td><p>Winning numbers for the daily games from May 5, 2010 through August 15, 2010.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="manatees.html">manatees</a></code> </p>
-          </td>
-          <td><p>manatees</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Maunaloa.html">Maunaloa</a></code> </p>
-          </td>
-          <td><p>Data on average CO2 levels (ppm) for the month of May from 1990 to 2010.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="MnGroundwater.html">MnGroundwater</a></code> </p>
-          </td>
-          <td><p>Measurements on water quality of 895 randomly selected wells in Minnesota.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="NCBirths2004.html">NCBirths2004</a></code> </p>
-          </td>
-          <td><p>Random sample of 1009 babies born in North Carolina during 2004.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Phillies2009.html">Phillies2009</a></code> </p>
-          </td>
-          <td><p>Data from the 2009 season for the baseball team of the Philadelphia Phillies.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Pitchers2005.html">Pitchers2005</a></code> </p>
-          </td>
-          <td><p>Pitchers2005</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Quakes.html">Quakes</a></code> </p>
-          </td>
-          <td><p>Time between earthquakes (in days).</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Reading.html">Reading</a></code> </p>
-          </td>
-          <td><p>Children's reading abilities.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="resampledata.html">resampledata</a></code> </p>
-          </td>
-          <td><p>resampledata: Data Sets for Mathematical Statistics with Resampling in R</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Sat2008.html">Sat2008</a></code> </p>
-          </td>
-          <td><p>Sat2008</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Service.html">Service</a></code> </p>
-          </td>
-          <td><p>Service times (in minutes) for 174 customers at a college snack bar.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Skating2010.html">Skating2010</a></code> </p>
-          </td>
-          <td><p>Scores from the short program and free skate for men's figure skating in the 2010 Olympics.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Spruce.html">Spruce</a></code> </p>
-          </td>
-          <td><p>Study of factors affecting the growth of the black spruce.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Starcraft.html">Starcraft</a></code> </p>
-          </td>
-          <td><p>Starcraft</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Titanic.html">Titanic</a></code> </p>
-          </td>
-          <td><p>Data on male passengers on the Titanic.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Turbine.html">Turbine</a></code> </p>
-          </td>
-          <td><p>Wind Speeds (m/s) from Carleton College Turbine.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="TV.html">TV</a></code> </p>
-          </td>
-          <td><p>TV</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="TXBirths2004.html">TXBirths2004</a></code> </p>
-          </td>
-          <td><p>Random sample of 1587 babies born in Texas in 2004.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Verizon.html">Verizon</a></code> </p>
-          </td>
-          <td><p>Random sample of repair times for 1664 ILEC and 23 CLEC customers.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Volleyball2009.html">Volleyball2009</a></code> </p>
-          </td>
-          <td><p>Volleyball2009</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Walleye.html">Walleye</a></code> </p>
-          </td>
-          <td><p>Length and weight measurements for a sample of 60 walleye caught in Minnesota lakes.</p></td>
-        </tr><tr>
-          <!--  -->
-          <td>
-            <p><code><a href="Watertable.html">Watertable</a></code> </p>
-          </td>
-          <td><p>Relationship between seedling growth and water table depth for a sample of seedlings.</p></td>
-        </tr>
-      </tbody>
-      </table>
-    </div>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Bushmeat.html">Bushmeat</a></code> </p>
+        </td>
+        <td><p>Bushmeat in Ghana.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Bushmeat2.html">Bushmeat2</a></code> </p>
+        </td>
+        <td><p>Bushmeat in Ghana.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Cameras.html">Cameras</a></code> </p>
+        </td>
+        <td><p>Prices of a sample of point-and-shoot digital cameras.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Cereals.html">Cereals</a></code> </p>
+        </td>
+        <td><p>Information on various cereals.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Challenger.html">Challenger</a></code> </p>
+        </td>
+        <td><p>Data on 23 Challenger flights.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="ChiMarathonMen.html">ChiMarathonMen</a></code> </p>
+        </td>
+        <td><p>Data on Marathon times.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Cuckoos.html">Cuckoos</a></code> </p>
+        </td>
+        <td><p>Cuckoos</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Diving2017.html">Diving2017</a></code> </p>
+        </td>
+        <td><p>Diving times in 2017</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Fatalities.html">Fatalities</a></code> </p>
+        </td>
+        <td><p>Random sample of 100 driver fatalities in 2009 in Pennsylvania.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="FishMercury.html">FishMercury</a></code> </p>
+        </td>
+        <td><p>Mercury levels (parts per million) for 30 fish caught in lakes in Minnesota.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="FlightDelays.html">FlightDelays</a></code> </p>
+        </td>
+        <td><p>Information on 4029 United and American airlines departures from LGA during May and June 2009.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="GSS2002.html">GSS2002</a></code> </p>
+        </td>
+        <td><p>Results from 2002 General Society Survey.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="GSS2006.html">GSS2006</a></code> </p>
+        </td>
+        <td><p>Results from 2006 General Society Survey.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Girls2004.html">Girls2004</a></code> </p>
+        </td>
+        <td><p>Random sample of 40 baby girls born in Alaska and 40 baby girls born in Wyoming.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Groceries.html">Groceries</a></code> </p>
+        </td>
+        <td><p>Groceries.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="ILBoys.html">ILBoys</a></code> </p>
+        </td>
+        <td><p>IL Boys</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="IceCream.html">IceCream</a></code> </p>
+        </td>
+        <td><p>Calorie information for a sample of brands of chocolate and vanilla ice cream.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Illiteracy.html">Illiteracy</a></code> </p>
+        </td>
+        <td><p>Data on a sample of countries where female illiteracy is more that 5 percent.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Lottery.html">Lottery</a></code> </p>
+        </td>
+        <td><p>Winning numbers for the daily games from May 5, 2010 through August 15, 2010.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="MathAnxiety.html">MathAnxiety</a></code> </p>
+        </td>
+        <td><p>Math Anxiety</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Maunaloa.html">Maunaloa</a></code> </p>
+        </td>
+        <td><p>Data on average CO2 levels (ppm) for the month of May from 1990 to 2010.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="MnGroundwater.html">MnGroundwater</a></code> </p>
+        </td>
+        <td><p>Measurements on water quality of 895 randomly selected wells in Minnesota.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="MobileAds.html">MobileAds</a></code> </p>
+        </td>
+        <td><p>Mobile Ads.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="NBA1617.html">NBA1617</a></code> </p>
+        </td>
+        <td><p>NBA 2016-2017 data.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="NCBirths2004.html">NCBirths2004</a></code> </p>
+        </td>
+        <td><p>Random sample of 1009 babies born in North Carolina during 2004.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Nasdaq.html">Nasdaq</a></code> </p>
+        </td>
+        <td><p>NASDAQ Data.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Olympics2012.html">Olympics2012</a></code> </p>
+        </td>
+        <td><p>2012 Olympics Data.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Phillies2009.html">Phillies2009</a></code> </p>
+        </td>
+        <td><p>Data from the 2009 season for the baseball team of the Philadelphia Phillies.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Pitchers2005.html">Pitchers2005</a></code> </p>
+        </td>
+        <td><p>Pitchers2005</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Quakes.html">Quakes</a></code> </p>
+        </td>
+        <td><p>Time between earthquakes (in days).</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Quetzal.html">Quetzal</a></code> </p>
+        </td>
+        <td><p>Quetzal.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="RangersTwins2016.html">RangersTwins2016</a></code> </p>
+        </td>
+        <td><p>Rangers/Twins 2016 Baseball Data.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Reading.html">Reading</a></code> </p>
+        </td>
+        <td><p>Children's reading abilities.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Recidivism.html">Recidivism</a></code> </p>
+        </td>
+        <td><p>Recidivism data.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Salaries.html">Salaries</a></code> </p>
+        </td>
+        <td><p>Salaries</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Sat2008.html">Sat2008</a></code> </p>
+        </td>
+        <td><p>Sat2008</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Service.html">Service</a></code> </p>
+        </td>
+        <td><p>Service times (in minutes) for 174 customers at a college snack bar.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Skateboard.html">Skateboard</a></code> </p>
+        </td>
+        <td><p>Skateboarding data</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Skating2010.html">Skating2010</a></code> </p>
+        </td>
+        <td><p>Scores from the short program and free skate for men's figure skating in the 2010 Olympics.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Spruce.html">Spruce</a></code> </p>
+        </td>
+        <td><p>Study of factors affecting the growth of the black spruce.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Starcraft.html">Starcraft</a></code> </p>
+        </td>
+        <td><p>Starcraft</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="TV.html">TV</a></code> </p>
+        </td>
+        <td><p>TV</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="TXBirths2004.html">TXBirths2004</a></code> </p>
+        </td>
+        <td><p>Random sample of 1587 babies born in Texas in 2004.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Titanic.html">Titanic</a></code> </p>
+        </td>
+        <td><p>Data on male passengers on the Titanic.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Turbine.html">Turbine</a></code> </p>
+        </td>
+        <td><p>Wind Speeds (m/s) from Carleton College Turbine.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Verizon.html">Verizon</a></code> </p>
+        </td>
+        <td><p>Random sample of repair times for 1664 ILEC and 23 CLEC customers.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Volleyball2009.html">Volleyball2009</a></code> </p>
+        </td>
+        <td><p>Volleyball2009</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Walleye.html">Walleye</a></code> </p>
+        </td>
+        <td><p>Length and weight measurements for a sample of 60 walleye caught in Minnesota lakes.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="Watertable.html">Watertable</a></code> </p>
+        </td>
+        <td><p>Relationship between seedling growth and water table depth for a sample of seedlings.</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="corrExerciseA.html">corrExerciseA</a></code> </p>
+        </td>
+        <td><p>Correlation Exercise A p.294</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="corrExerciseB.html">corrExerciseB</a></code> </p>
+        </td>
+        <td><p>Correlation Exercise B p.294</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="manatees.html">manatees</a></code> </p>
+        </td>
+        <td><p>manatees</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="resampledata.html">resampledata</a></code> </p>
+        </td>
+        <td><p>resampledata: Data Sets for Mathematical Statistics with Resampling in R</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="wafers.html">wafers</a></code> </p>
+        </td>
+        <td><p>Wafers</p></td>
+      </tr>
+    </tbody>
+    </table>
   </div>
 
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
@@ -382,11 +489,14 @@ the social sciences.</p></td>
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="http://hadley.github.io/pkgdown/">pkgdown</a>.</p>
+  <p>Site built with <a href="http://pkgdown.r-lib.org/">pkgdown</a>.</p>
 </div>
 
       </footer>
    </div>
 
+  
+
   </body>
 </html>
+
