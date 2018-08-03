@@ -11,13 +11,12 @@ downloads](http://cranlogs.r-pkg.org/badges/resampledata)](http://www.r-pkg.org/
 
 R package of data sets used in [Mathematical Statistics with Resampling
 in R](https://sites.google.com/site/chiharahesterberg/) (1st Ed. 2011,
-2nd Ed. 2018) by Laura Chihara and Tim Hesterberg.
+2nd Ed. 2018) by Laura Chihara and Tim
+Hesterberg.
 
-<br>
-
-<img src="textbook.png" alt="Drawing" width="40%" />
-
-<br>
+| First Edition                                    | Second Edition                                   |
+| ------------------------------------------------ | ------------------------------------------------ |
+| <img src="ed1.png" alt="Drawing" width="100%" /> | <img src="ed2.png" alt="Drawing" width="100%" /> |
 
 ## Installation
 
