@@ -4,7 +4,8 @@
 ^data-raw$
 README.md
 ^README\.md$
-^textbook\.jpg$
+^ed1\.png$
+^ed2\.png$
 ^cran-comments\.md$
 ^README\.Rmd$
 ^README-.*\.png$
