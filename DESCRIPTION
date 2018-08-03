@@ -11,10 +11,10 @@ Suggests:
     resample (>= 0.4)
 Maintainer: Albert Y. Kim <albert.ys.kim@gmail.com>
 Description: Package of data sets from "Mathematical Statistics
-    with Resampling in R" (2011) by Laura Chihara and Tim Hesterberg.
+    with Resampling in R" (1st Ed. 2011, 2nd Ed. 2018) by Laura Chihara and Tim Hesterberg.
 Depends: R (>= 2.10)
 License: CC0
 LazyData: TRUE
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
 URL: https://github.com/rudeboybert/resampledata
 BugReports: https://github.com/rudeboybert/resampledata/issues

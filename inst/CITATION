@@ -4,15 +4,16 @@ citEntry(entry = "Book",
   title        = "Mathematical Statistics with Resampling and R",
   author       = personList(as.person("Laura M. Chihara"),
                    as.person("Tim C. Hesterberg")),
-  year         = "2011",
+  year         = "2018",
+  edition      = "2nd",
   publisher    = "John Wiley & Sons",
   address      = "Hoboken, NJ",
   url          = "https://sites.google.com/site/chiharahesterberg/home",
-  isbn         = "978-1118029855",
+  isbn         = "978-1-119-41653-1",
 
   textVersion  =
-  paste("Chihara, Laura M., Hesterberg, Tim C. (2011).",
-        "Mathematical Statistics with Resampling and R.",
+  paste("Chihara, Laura M., Hesterberg, Tim C. (2018).",
+        "Mathematical Statistics with Resampling and R (2nd ed.)",
         "Hoboken, NJ: John Wiley & Sons.")
 )
 
