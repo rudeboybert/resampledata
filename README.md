@@ -15,7 +15,7 @@ in R](https://sites.google.com/site/chiharahesterberg/) (1st Ed. 2011,
 
 <br>
 
-<img src="textbook.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="textbook.jpg" alt="Drawing" style="width: 100px;"/>
 
 <br>
 

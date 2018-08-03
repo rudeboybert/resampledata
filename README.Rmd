@@ -23,7 +23,7 @@ R package of data sets used in [Mathematical Statistics with Resampling in R](ht
 
 <br>
 
-<img src="textbook.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="textbook.jpg" alt="Drawing" style="width: 100px;"/>
 
 <br>
 
