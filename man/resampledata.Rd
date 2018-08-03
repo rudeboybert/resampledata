@@ -16,6 +16,7 @@ analysis. Full data are available from the British Geological Survey web site
 
 Type \code{data(package="resampledata")} to view all datasets.
 }
+
 \examples{
 library(resampledata)
 data(FlightDelays)
@@ -28,4 +29,3 @@ Bootstrap: Resampling in the Undergraduate Statistics Curriculum,
 Chihara, Laura M., Hesterberg, Tim C. (2011). Mathematical
   Statistics with Resampling and R. Hoboken, NJ: John Wiley & Sons.
 }
-

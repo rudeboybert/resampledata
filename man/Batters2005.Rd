@@ -15,4 +15,3 @@ Batters2005
 A data set containing X. The variables are as follows:
 }
 \keyword{datasets}
-
