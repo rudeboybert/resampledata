@@ -7,7 +7,7 @@
 \title{resampledata: Data Sets for Mathematical Statistics with Resampling in R}
 \description{
 Package of data sets from "Mathematical Statistics with Resampling in R"
-(2011) by Laura Chihara and Tim Hesterberg. Note the \code{\link{Bangladesh}}
+(1st Ed. 2011, 2nd Ed. 2018) by Laura Chihara and Tim Hesterberg. Note the \code{\link{Bangladesh}}
 data is provided solely for illustrative purposes and to enable statistical
 analysis. Full data are available from the British Geological Survey web site
 \url{http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm}.
@@ -26,6 +26,6 @@ Hesterberg, Tim (2014), What Teachers Should Know about the
 Bootstrap: Resampling in the Undergraduate Statistics Curriculum,
 \url{http://arxiv.org/abs/1411.5279}.
 
-Chihara, Laura M., Hesterberg, Tim C. (2011). Mathematical
+Chihara, Laura M., Hesterberg, Tim C. (1st Ed. 2011, 2nd Ed. 2018). Mathematical
   Statistics with Resampling and R. Hoboken, NJ: John Wiley & Sons.
 }
