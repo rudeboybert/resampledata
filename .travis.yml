@@ -1,11 +1,12 @@
 # Sample .travis.yml for R projects
 
-language: R
+language: r
 r:
   - oldrel
   - release
   - devel
-sudo: true
+warnings_are_errors: true
+sudo: required
 cache: packages
 latex: false
 
@@ -17,3 +18,11 @@ notifications:
   email:
     on_success: change
     on_failure: change
+
+r_packages:
+  - devtools
+
+
+before_deploy:
+  - Rscript -e 'pkgdown::build_site()'
+
