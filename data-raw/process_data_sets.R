@@ -64,7 +64,12 @@ devtools::use_data(Challenger, overwrite = TRUE)
 
 
 # ChiMarathonMen ----------------------------------------------------------
-ChiMarathonMen <- read.csv(file="data-raw/ChiMarathonMen.csv", header=TRUE)
+ChiMarathonMen <- read.csv(file="data-raw/ChiMarathonMen.csv", header=TRUE) %>% 
+  # Fix "Castro Sebasti\xe1n": https://twitter.com/sebasrunning
+  mutate(
+    name = as.character(name),
+    name = ifelse(name == "Castro Sebasti\xe1n", "Castro Sebastian", name)
+    )
 devtools::use_data(ChiMarathonMen, overwrite = TRUE)
 
 
