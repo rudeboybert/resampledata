@@ -10,11 +10,11 @@ Status](https://travis-ci.org/rudeboybert/resampledata.png?branch=master)](https
 downloads](http://cranlogs.r-pkg.org/badges/resampledata)](http://www.r-pkg.org/pkg/resampledata)
 
 R package of data sets used in [Mathematical Statistics with Resampling
-in R](https://sites.google.com/site/chiharahesterberg/) (1st Ed. 2011,
-2nd Ed. 2018) by Laura Chihara and Tim
+in R](https://sites.google.com/site/chiharahesterberg/) by Laura Chihara
+and Tim
 Hesterberg.
 
-| First Edition                                    | Second Edition                                   |
+| First Edition (2011)                             | Second Edition (2018)                            |
 | ------------------------------------------------ | ------------------------------------------------ |
 | <img src="ed1.png" alt="Drawing" width="100%" /> | <img src="ed2.png" alt="Drawing" width="100%" /> |
 
