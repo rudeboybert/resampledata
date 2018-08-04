@@ -1,7 +1,4 @@
 # Source of CSV files: https://sites.google.com/site/chiharahesterberg/
-#
-# Note: The data sets Bangladesh, GSS2002, GSS2006, and Volleyball2009 are not
-# included.
 library(dplyr)
 library(stringr)
 

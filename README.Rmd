@@ -23,7 +23,7 @@ R package of data sets used in [Mathematical Statistics with Resampling in R](ht
 
 First Edition (2011)  | Second Edition (2018)
 ------------- | -------------
-<img src="ed1.png" alt="Drawing" width="100%" />  | <img src="ed2.png" alt="Drawing" width="100%" />
+<img src="man/figures/ed1.png" alt="Drawing" width="100%" />  | <img src="man/figures/ed2.png" alt="Drawing" width="100%" />
 
 
 
@@ -60,4 +60,4 @@ data(FlightDelays)
 Note the `Bangladesh` data is provided solely for illustrative purposes and to 
 enable statistical analysis.  Full data are available from the British 
 Geological Survey web site
-[http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm](http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm).
+<http://www.bgs.ac.uk/arsenic/bangladesh/>
