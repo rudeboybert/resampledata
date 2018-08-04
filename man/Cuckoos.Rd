@@ -15,4 +15,3 @@ Cuckoos
 A data set containing X. The variables are as follows:
 }
 \keyword{datasets}
-

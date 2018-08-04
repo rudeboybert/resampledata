@@ -114,6 +114,17 @@
 "Challenger"
 
 
+#' Data on Marathon times.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"ChiMarathonMen"
+
+
 #' Correlation Exercise A p.294
 #'
 #' A data set containing X. The variables are as follows:
@@ -145,6 +156,17 @@
 #'   \item
 #' }
 "Cuckoos"
+
+
+#' Diving times in 2017
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Diving2017"
 
 
 #' Random sample of 100 driver fatalities in 2009 in Pennsylvania.
@@ -191,7 +213,7 @@
 "Girls2004"
 
 
-#' Random sample of 40 baby girls born in Alaska and 40 baby girls born in Wyoming.
+#' Groceries.
 #'
 #' A data set containing X. The variables are as follows:
 #'
@@ -199,7 +221,7 @@
 #' \itemize{
 #'   \item
 #' }
-"Girls2004"
+"Groceries"
 
 
 #' Results from 2002 General Society Survey.
@@ -235,6 +257,17 @@
 "IceCream"
 
 
+#' IL Boys
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"ILBoys"
+
+
 #' Data on a sample of countries where female illiteracy is more that 5 percent.
 #'
 #' A data set containing X. The variables are as follows:
@@ -268,6 +301,17 @@
 "manatees"
 
 
+#' Math Anxiety
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"MathAnxiety"
+
+
 #' Data on average CO2 levels (ppm) for the month of May from 1990 to 2010.
 #'
 #' A data set containing X. The variables are as follows:
@@ -290,6 +334,39 @@
 "MnGroundwater"
 
 
+#' Mobile Ads.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"MobileAds"
+
+
+#' NASDAQ Data.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Nasdaq"
+
+
+#' NBA 2016-2017 data.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"NBA1617"
+
+
 #' Random sample of 1009 babies born in North Carolina during 2004.
 #'
 #' A data set containing X. The variables are as follows:
@@ -299,6 +376,17 @@
 #'   \item
 #' }
 "NCBirths2004"
+
+
+#' 2012 Olympics Data.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Olympics2012"
 
 
 #' Data from the 2009 season for the baseball team of the Philadelphia Phillies.
@@ -334,6 +422,28 @@
 "Quakes"
 
 
+#' Quetzal.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Quetzal"
+
+
+#' Rangers/Twins 2016 Baseball Data.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"RangersTwins2016"
+
+
 #' Children's reading abilities.
 #'
 #' A data set containing X. The variables are as follows:
@@ -343,6 +453,28 @@
 #'   \item
 #' }
 "Reading"
+
+
+#' Recidivism data.
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Recidivism"
+
+
+#' Salaries
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Salaries"
 
 
 #' Sat2008
@@ -365,6 +497,17 @@
 #'   \item
 #' }
 "Service"
+
+
+#' Skateboarding data
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"Skateboard"
 
 
 #' Scores from the short program and free skate for men's figure skating in the 2010 Olympics.
@@ -464,6 +607,17 @@
 #'   \item
 #' }
 "Volleyball2009"
+
+
+#' Wafers
+#'
+#' A data set containing X. The variables are as follows:
+#'
+#' @format A data frame with X rows and Y variables:
+#' \itemize{
+#'   \item
+#' }
+"wafers"
 
 
 #' Length and weight measurements for a sample of 60 walleye caught in Minnesota lakes.

@@ -10,13 +10,8 @@
 }}
 \usage{
 Girls2004
-
-Girls2004
 }
 \description{
 A data set containing X. The variables are as follows:
-
-A data set containing X. The variables are as follows:
 }
 \keyword{datasets}
-

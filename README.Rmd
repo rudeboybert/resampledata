@@ -19,13 +19,13 @@ knitr::opts_chunk$set(
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/resampledata)](http://cran.r-project.org/package=resampledata)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/resampledata)](http://www.r-pkg.org/pkg/resampledata)
 
-R package of data sets used in [Mathematical Statistics with Resampling in R](https://sites.google.com/site/chiharahesterberg/) (2011) by Laura Chihara and Tim Hesterberg.
+R package of data sets used in [Mathematical Statistics with Resampling in R](https://sites.google.com/site/chiharahesterberg/) by Laura Chihara and Tim Hesterberg.
 
-<br>
+First Edition (2011)  | Second Edition (2018)
+------------- | -------------
+<img src="ed1.png" alt="Drawing" width="100%" />  | <img src="ed2.png" alt="Drawing" width="100%" />
 
-![](http://media.wiley.com/product_data/coverImage300/52/11180298/1118029852.jpg)
 
-<br>
 
 ## Installation
 
