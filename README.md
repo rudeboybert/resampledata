@@ -14,9 +14,9 @@ in R](https://sites.google.com/site/chiharahesterberg/) by Laura Chihara
 and Tim
 Hesterberg.
 
-| First Edition (2011)                             | Second Edition (2018)                            |
-| ------------------------------------------------ | ------------------------------------------------ |
-| <img src="ed1.png" alt="Drawing" width="100%" /> | <img src="ed2.png" alt="Drawing" width="100%" /> |
+| First Edition (2011)                                         | Second Edition (2018)                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="man/figures/ed1.png" alt="Drawing" width="100%" /> | <img src="man/figures/ed2.png" alt="Drawing" width="100%" /> |
 
 ## Installation
 
@@ -51,4 +51,4 @@ data(FlightDelays)
 Note the `Bangladesh` data is provided solely for illustrative purposes
 and to enable statistical analysis. Full data are available from the
 British Geological Survey web site
-<http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm>.
+<http://www.bgs.ac.uk/arsenic/bangladesh/>

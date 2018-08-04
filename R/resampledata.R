@@ -4,7 +4,7 @@
 #' (1st Ed. 2011, 2nd Ed. 2018) by Laura Chihara and Tim Hesterberg. Note the \code{\link{Bangladesh}}
 #' data is provided solely for illustrative purposes and to enable statistical
 #' analysis. Full data are available from the British Geological Survey web site
-#' \url{http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm}.
+#' \url{http://www.bgs.ac.uk/arsenic/bangladesh/}.
 #'
 #' @section Data sets:
 #' Type \code{data(package="resampledata")} to view all datasets.
