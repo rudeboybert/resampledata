@@ -135,6 +135,7 @@ Groceries <- read.csv(file="data-raw/Groceries.csv", header=TRUE) %>%
     ) %>% 
   # Fix typo
   mutate(
+    Size = trimws(as.character(Size)),
     Size = ifelse(Size == "11.50z", "11.50oz", Size),
     UnitType = ifelse(UnitType == "z", "oz", UnitType)
     )
