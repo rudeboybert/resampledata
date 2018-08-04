@@ -1,4 +1,4 @@
-# resampledata 0.3.0
+# resampledata 0.3.0.9000
 
 * Added new datasets for 2nd edition of book (2018): `ChiMarathonMen`, `Diving2017`, `Groceries`, `ILBoys`, `MathAnxiety`, `MobileAds`, `NBA1617`, `Nasdaq`, `Olympics2012`, `Quetzal`, `RangersTwins2016`, `Recidivism`, `Salaries`, `Skateboard`, `wafers`.
 

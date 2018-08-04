@@ -1,7 +1,7 @@
 Package: resampledata
 Type: Package
 Title: Data Sets for Mathematical Statistics with Resampling in R
-Version: 0.3.0
+Version: 0.3.0.9000
 Authors@R: c(
     person("Laura", "Chihara", email = "lchihara@carleton.edu", role = "aut"),
     person("Tim", "Hesterberg", email = "TimHesterberg@gmail.com", role = "aut"),
