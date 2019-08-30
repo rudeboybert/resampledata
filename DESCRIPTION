@@ -1,7 +1,7 @@
 Package: resampledata
 Type: Package
 Title: Data Sets for Mathematical Statistics with Resampling in R
-Version: 0.3.0.9000
+Version: 0.3.1
 Authors@R: c(
     person("Laura", "Chihara", email = "lchihara@carleton.edu", role = "aut"),
     person("Tim", "Hesterberg", email = "TimHesterberg@gmail.com", role = "aut"),
@@ -15,6 +15,6 @@ Description: Package of data sets from "Mathematical Statistics
 Depends: R (>= 2.10)
 License: CC0
 LazyData: TRUE
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 URL: https://github.com/rudeboybert/resampledata
 BugReports: https://github.com/rudeboybert/resampledata/issues

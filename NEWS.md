@@ -1,6 +1,6 @@
-# resampledata 0.3.0.9000
+# resampledata 0.3.1
 
-* Development version; don't expect much to change however.
+* Added Albert Y. Kim to package authors in DESCRIPTION
 
 # resampledata 0.3.0
 
