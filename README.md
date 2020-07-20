@@ -3,16 +3,20 @@
 
 # resampledata
 
+<!-- badges: start -->
+
 [![Build
 Status](https://travis-ci.org/rudeboybert/resampledata.png?branch=master)](https://travis-ci.org/rudeboybert/resampledata)
+[![R build
+status](https://github.com/rudeboybert/resampledata/workflows/R-CMD-check/badge.svg)](https://github.com/rudeboybert/resampledata/actions)
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/resampledata)](http://cran.r-project.org/package=resampledata)
 [![CRAN RStudio mirror
 downloads](http://cranlogs.r-pkg.org/badges/resampledata)](http://www.r-pkg.org/pkg/resampledata)
+<!-- badges: end -->
 
 R package of data sets used in [Mathematical Statistics with Resampling
 in R](https://sites.google.com/site/chiharahesterberg/) by Laura Chihara
-and Tim
-Hesterberg.
+and Tim Hesterberg.
 
 | First Edition (2011)                                         | Second Edition (2018)                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
