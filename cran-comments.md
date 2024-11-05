@@ -1,18 +1,12 @@
 ## Test environments
 
-* local OS X install, R 3.6.1.
-* ubuntu 14.04 (on travis-ci), R 3.6.1.
-* Rhub
-    + Ubuntu Linux 16.04 LTS, R-release, GCC
-    + Fedora Linux, R-devel, clang, gfortran
-    + Windows Server 2008 R2 SP1, R-devel, 32/64 bit
-* win-builder (devel and release)
+-   local OS X install, R 4.4.0.
+-   win-builder (devel, oldrelease, release)
 
 ## R CMD check results
 
-There were no ERRORs or WARNINGs. 
+There were no ERRORs or WARNINGs.
 
 ## Comments
 
-* Only change is adding Albert Y. Kim to DESCRIPTION pkg author list
-* Textbook does not have a DOI reference
+-   Addressed NOTEs about trimming empty things in the "HTML version of manual" check <https://cran.r-project.org/web/checks/check_results_resampledata.html>

@@ -4,10 +4,9 @@
 \name{Quakes}
 \alias{Quakes}
 \title{Time between earthquakes (in days).}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Quakes
 }

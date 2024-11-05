@@ -1,11 +1,8 @@
 #' Calories and alcohol content for ales and lagers.
 #'
-#' A data set containing X. The variables are as follows:
+#' A data set containing 31 beers. The variables are as follows:
 #'
-#' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
+#' @format A data frame with 31 rows and 4 variables:
 "Alelager"
 
 
@@ -14,14 +11,11 @@
 #' The Bangladesh data is provided solely for illustrative purposes and to
 #' enable statistical analysis.  Full data are available from the British
 #' Geological Survey web site:
-#' \url{http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm}.
+#' \url{https://www2.bgs.ac.uk/groundwater/health/arsenic/Bangladesh/home.html}.
 #'
-#' A data set containing X. The variables are as follows:
+#' A data set containing 271 ??. The variables are as follows:
 #'
-#' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
+#' @format A data frame with 271 rows and 3 variables:
 "Bangladesh"
 
 
@@ -30,9 +24,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Batters2005"
 
 
@@ -41,9 +32,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Beerwings"
 
 
@@ -53,9 +41,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "BookPrices"
 
 
@@ -64,9 +49,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Bushmeat"
 
 
@@ -75,9 +57,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Bushmeat2"
 
 
@@ -86,9 +65,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Cameras"
 
 
@@ -97,9 +73,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Cereals"
 
 
@@ -108,9 +81,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Challenger"
 
 
@@ -119,9 +89,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "ChiMarathonMen"
 
 
@@ -130,9 +97,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "corrExerciseA"
 
 
@@ -141,9 +105,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "corrExerciseB"
 
 
@@ -152,9 +113,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Cuckoos"
 
 
@@ -163,9 +121,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Diving2017"
 
 
@@ -174,9 +129,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Fatalities"
 
 
@@ -185,9 +137,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "FishMercury"
 
 
@@ -196,9 +145,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "FlightDelays"
 
 
@@ -207,9 +153,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Girls2004"
 
 
@@ -218,9 +161,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Groceries"
 
 
@@ -229,9 +169,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "GSS2002"
 
 
@@ -240,9 +177,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "GSS2006"
 
 
@@ -251,9 +185,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "IceCream"
 
 
@@ -262,9 +193,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "ILBoys"
 
 
@@ -273,9 +201,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Illiteracy"
 
 
@@ -284,9 +209,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Lottery"
 
 
@@ -295,9 +217,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "manatees"
 
 
@@ -306,9 +225,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "MathAnxiety"
 
 
@@ -317,9 +233,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Maunaloa"
 
 
@@ -328,9 +241,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "MnGroundwater"
 
 
@@ -339,9 +249,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "MobileAds"
 
 
@@ -350,9 +257,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Nasdaq"
 
 
@@ -361,9 +265,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "NBA1617"
 
 
@@ -372,9 +273,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "NCBirths2004"
 
 
@@ -383,9 +281,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Olympics2012"
 
 
@@ -394,9 +289,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Phillies2009"
 
 
@@ -405,9 +297,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Pitchers2005"
 
 
@@ -416,9 +305,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Quakes"
 
 
@@ -427,9 +313,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Quetzal"
 
 
@@ -438,9 +321,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "RangersTwins2016"
 
 
@@ -449,9 +329,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Reading"
 
 
@@ -460,9 +337,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Recidivism"
 
 
@@ -471,9 +345,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Salaries"
 
 
@@ -482,9 +353,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Sat2008"
 
 
@@ -493,9 +361,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Service"
 
 
@@ -504,9 +369,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Skateboard"
 
 
@@ -515,9 +377,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Skating2010"
 
 
@@ -526,9 +385,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Spruce"
 
 
@@ -537,9 +393,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Starcraft"
 
 
@@ -548,9 +401,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Titanic"
 
 
@@ -559,9 +409,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Turbine"
 
 
@@ -570,9 +417,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "TV"
 
 
@@ -581,9 +425,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "TXBirths2004"
 
 
@@ -592,9 +433,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Verizon"
 
 
@@ -603,9 +441,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Volleyball2009"
 
 
@@ -614,9 +449,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "wafers"
 
 
@@ -625,9 +457,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Walleye"
 
 
@@ -636,9 +465,6 @@
 #' A data set containing X. The variables are as follows:
 #'
 #' @format A data frame with X rows and Y variables:
-#' \itemize{
-#'   \item
-#' }
 "Watertable"
 
 

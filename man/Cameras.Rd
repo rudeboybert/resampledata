@@ -4,10 +4,9 @@
 \name{Cameras}
 \alias{Cameras}
 \title{Prices of a sample of point-and-shoot digital cameras.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Cameras
 }

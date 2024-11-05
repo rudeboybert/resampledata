@@ -4,10 +4,9 @@
 \name{GSS2002}
 \alias{GSS2002}
 \title{Results from 2002 General Society Survey.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 GSS2002
 }

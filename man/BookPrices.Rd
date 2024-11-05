@@ -5,10 +5,9 @@
 \alias{BookPrices}
 \title{Price of hardcover textbooks from mathematics and the natural sciences and
 the social sciences.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 BookPrices
 }

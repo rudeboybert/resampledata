@@ -4,10 +4,9 @@
 \name{Phillies2009}
 \alias{Phillies2009}
 \title{Data from the 2009 season for the baseball team of the Philadelphia Phillies.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Phillies2009
 }

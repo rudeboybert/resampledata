@@ -4,10 +4,9 @@
 \name{Nasdaq}
 \alias{Nasdaq}
 \title{NASDAQ Data.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Nasdaq
 }

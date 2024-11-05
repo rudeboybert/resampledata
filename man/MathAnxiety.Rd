@@ -4,10 +4,9 @@
 \name{MathAnxiety}
 \alias{MathAnxiety}
 \title{Math Anxiety}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 MathAnxiety
 }

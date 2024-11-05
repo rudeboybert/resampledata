@@ -4,10 +4,9 @@
 \name{Titanic}
 \alias{Titanic}
 \title{Data on male passengers on the Titanic.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Titanic
 }

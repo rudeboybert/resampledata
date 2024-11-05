@@ -4,10 +4,9 @@
 \name{Diving2017}
 \alias{Diving2017}
 \title{Diving times in 2017}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Diving2017
 }

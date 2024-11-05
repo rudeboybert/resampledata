@@ -4,10 +4,9 @@
 \name{ChiMarathonMen}
 \alias{ChiMarathonMen}
 \title{Data on Marathon times.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 ChiMarathonMen
 }

@@ -4,10 +4,9 @@
 \name{RangersTwins2016}
 \alias{RangersTwins2016}
 \title{Rangers/Twins 2016 Baseball Data.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 RangersTwins2016
 }

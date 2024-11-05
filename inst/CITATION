@@ -1,21 +1,11 @@
-citHeader("To cite this package in publications use:")
-
-citEntry(entry = "Book",
-  title        = "Mathematical Statistics with Resampling and R",
-  author       = personList(as.person("Laura M. Chihara"),
-                   as.person("Tim C. Hesterberg")),
-  year         = "2018",
-  edition      = "2",
-  publisher    = "John Wiley & Sons",
-  address      = "Hoboken, NJ",
-  url          = "https://sites.google.com/site/chiharahesterberg/home",
-  isbn         = "978-1-119-41653-1",
-
-  textVersion  =
-  paste("Chihara, Laura M., Hesterberg, Tim C. (2018).",
-        "Mathematical Statistics with Resampling and R (2nd ed.)",
-        "Hoboken, NJ: John Wiley & Sons.")
+bibentry(
+  bibtype = "Book",
+  textVersion = "L. Chihara and T. Hesterberg. Mathematical Statistics with Resampling and R. John Wiley & Sons Hoboken NJ, 2018.",
+  header = "To cite resampledata in publications, please use",
+  author = "Laura M. Chihara and Tim C. Hesterberg",
+  title = "Mathematical Statistics with Resampling and R",
+  publisher = "John Wiley & Sons Hoboken NJ",
+  year = "2018",
+  isbn = "978-1-119-41653-1",
+  url = "https://github.com/lchihara/MathStatsResamplingR?tab=readme-ov-file",
 )
-
-
-

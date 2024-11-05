@@ -1,15 +1,17 @@
+#' @keywords internal
+"_PACKAGE"
+
 #' resampledata: Data Sets for Mathematical Statistics with Resampling in R
 #'
 #' Package of data sets from "Mathematical Statistics with Resampling in R"
 #' (1st Ed. 2011, 2nd Ed. 2018) by Laura Chihara and Tim Hesterberg. Note the \code{\link{Bangladesh}}
 #' data is provided solely for illustrative purposes and to enable statistical
 #' analysis. Full data are available from the British Geological Survey web site
-#' \url{http://www.bgs.ac.uk/arsenic/bangladesh/}.
+#' \url{https://www2.bgs.ac.uk/groundwater/health/arsenic/Bangladesh/home.html}.
 #'
 #' @section Data sets:
 #' Type \code{data(package="resampledata")} to view all datasets.
 #'
-#' @docType package
 #' @examples
 #' library(resampledata)
 #' data(FlightDelays)

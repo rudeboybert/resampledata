@@ -4,10 +4,9 @@
 \name{Illiteracy}
 \alias{Illiteracy}
 \title{Data on a sample of countries where female illiteracy is more that 5 percent.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Illiteracy
 }

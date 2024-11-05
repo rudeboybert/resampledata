@@ -4,10 +4,9 @@
 \name{FishMercury}
 \alias{FishMercury}
 \title{Mercury levels (parts per million) for 30 fish caught in lakes in Minnesota.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 FishMercury
 }

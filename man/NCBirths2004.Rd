@@ -4,10 +4,9 @@
 \name{NCBirths2004}
 \alias{NCBirths2004}
 \title{Random sample of 1009 babies born in North Carolina during 2004.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 NCBirths2004
 }

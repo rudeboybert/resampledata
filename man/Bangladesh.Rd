@@ -4,10 +4,9 @@
 \name{Bangladesh}
 \alias{Bangladesh}
 \title{Bangladesh}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with 271 rows and 3 variables:
+}
 \usage{
 Bangladesh
 }
@@ -15,9 +14,9 @@ Bangladesh
 The Bangladesh data is provided solely for illustrative purposes and to
 enable statistical analysis.  Full data are available from the British
 Geological Survey web site:
-\url{http://www.bgs.ac.uk/arsenic/bphase2/datadownload.htm}.
+\url{https://www2.bgs.ac.uk/groundwater/health/arsenic/Bangladesh/home.html}.
 }
 \details{
-A data set containing X. The variables are as follows:
+A data set containing 271 ??. The variables are as follows:
 }
 \keyword{datasets}

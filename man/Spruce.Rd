@@ -4,10 +4,9 @@
 \name{Spruce}
 \alias{Spruce}
 \title{Study of factors affecting the growth of the black spruce.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Spruce
 }

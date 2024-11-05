@@ -4,10 +4,9 @@
 \name{Skating2010}
 \alias{Skating2010}
 \title{Scores from the short program and free skate for men's figure skating in the 2010 Olympics.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Skating2010
 }

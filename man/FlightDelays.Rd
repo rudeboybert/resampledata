@@ -4,10 +4,9 @@
 \name{FlightDelays}
 \alias{FlightDelays}
 \title{Information on 4029 United and American airlines departures from LGA during May and June 2009.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 FlightDelays
 }

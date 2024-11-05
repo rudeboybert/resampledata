@@ -4,10 +4,9 @@
 \name{Lottery}
 \alias{Lottery}
 \title{Winning numbers for the daily games from May 5, 2010 through August 15, 2010.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Lottery
 }

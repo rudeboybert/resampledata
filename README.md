@@ -9,18 +9,19 @@
 Status](https://travis-ci.org/rudeboybert/resampledata.png?branch=master)](https://travis-ci.org/rudeboybert/resampledata)
 [![R build
 status](https://github.com/rudeboybert/resampledata/workflows/R-CMD-check/badge.svg)](https://github.com/rudeboybert/resampledata/actions)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/resampledata)](http://cran.r-project.org/package=resampledata)
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/resampledata)](http://cran.r-project.org/package=resampledata)
 [![CRAN RStudio mirror
 downloads](http://cranlogs.r-pkg.org/badges/resampledata)](http://www.r-pkg.org/pkg/resampledata)
+
 <!-- badges: end -->
 
 R package of data sets used in [Mathematical Statistics with Resampling
 in R](https://sites.google.com/site/chiharahesterberg/) by Laura Chihara
 and Tim Hesterberg.
 
-| First Edition (2011)                                         | Second Edition (2018)                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="man/figures/ed1.png" alt="Drawing" width="100%" /> | <img src="man/figures/ed2.png" alt="Drawing" width="100%" /> |
+| First Edition (2011)                                        | Second Edition (2018)                                       |
+|-------------------------------------------------------------|-------------------------------------------------------------|
+| <img src="man/figures/ed1.png" alt="Drawing" width="100%"/> | <img src="man/figures/ed2.png" alt="Drawing" width="100%"/> |
 
 ## Installation
 
@@ -55,4 +56,4 @@ data(FlightDelays)
 Note the `Bangladesh` data is provided solely for illustrative purposes
 and to enable statistical analysis. Full data are available from the
 British Geological Survey web site
-<http://www.bgs.ac.uk/arsenic/bangladesh/>
+<https://www2.bgs.ac.uk/groundwater/health/arsenic/Bangladesh/home.html>

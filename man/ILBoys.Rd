@@ -4,10 +4,9 @@
 \name{ILBoys}
 \alias{ILBoys}
 \title{IL Boys}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 ILBoys
 }

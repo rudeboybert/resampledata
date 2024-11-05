@@ -4,10 +4,9 @@
 \name{Groceries}
 \alias{Groceries}
 \title{Groceries.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Groceries
 }

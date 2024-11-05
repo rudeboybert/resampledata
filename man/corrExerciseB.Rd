@@ -4,10 +4,9 @@
 \name{corrExerciseB}
 \alias{corrExerciseB}
 \title{Correlation Exercise B p.294}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 corrExerciseB
 }

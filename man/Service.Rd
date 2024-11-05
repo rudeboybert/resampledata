@@ -4,10 +4,9 @@
 \name{Service}
 \alias{Service}
 \title{Service times (in minutes) for 174 customers at a college snack bar.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Service
 }

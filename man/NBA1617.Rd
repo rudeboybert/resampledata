@@ -4,10 +4,9 @@
 \name{NBA1617}
 \alias{NBA1617}
 \title{NBA 2016-2017 data.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 NBA1617
 }

@@ -4,10 +4,9 @@
 \name{Bushmeat}
 \alias{Bushmeat}
 \title{Bushmeat in Ghana.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Bushmeat
 }

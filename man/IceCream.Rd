@@ -4,10 +4,9 @@
 \name{IceCream}
 \alias{IceCream}
 \title{Calorie information for a sample of brands of chocolate and vanilla ice cream.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 IceCream
 }

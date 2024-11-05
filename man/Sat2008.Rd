@@ -4,10 +4,9 @@
 \name{Sat2008}
 \alias{Sat2008}
 \title{Sat2008}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Sat2008
 }

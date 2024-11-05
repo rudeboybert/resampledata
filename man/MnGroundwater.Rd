@@ -4,10 +4,9 @@
 \name{MnGroundwater}
 \alias{MnGroundwater}
 \title{Measurements on water quality of 895 randomly selected wells in Minnesota.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 MnGroundwater
 }

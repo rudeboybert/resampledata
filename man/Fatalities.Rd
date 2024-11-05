@@ -4,10 +4,9 @@
 \name{Fatalities}
 \alias{Fatalities}
 \title{Random sample of 100 driver fatalities in 2009 in Pennsylvania.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Fatalities
 }

@@ -4,10 +4,9 @@
 \name{wafers}
 \alias{wafers}
 \title{Wafers}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 wafers
 }

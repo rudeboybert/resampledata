@@ -4,14 +4,13 @@
 \name{Alelager}
 \alias{Alelager}
 \title{Calories and alcohol content for ales and lagers.}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with 31 rows and 4 variables:
+}
 \usage{
 Alelager
 }
 \description{
-A data set containing X. The variables are as follows:
+A data set containing 31 beers. The variables are as follows:
 }
 \keyword{datasets}

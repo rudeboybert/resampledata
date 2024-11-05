@@ -4,10 +4,9 @@
 \name{Volleyball2009}
 \alias{Volleyball2009}
 \title{Volleyball2009}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 Volleyball2009
 }

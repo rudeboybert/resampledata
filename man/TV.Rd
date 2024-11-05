@@ -4,10 +4,9 @@
 \name{TV}
 \alias{TV}
 \title{TV}
-\format{A data frame with X rows and Y variables:
-\itemize{
-  \item
-}}
+\format{
+A data frame with X rows and Y variables:
+}
 \usage{
 TV
 }
